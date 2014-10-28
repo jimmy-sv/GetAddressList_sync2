@@ -1,4 +1,4 @@
-package com.jimmy.getAddresslist1;
+package com.jimmy.getAddresslist;
 
 
 import org.jsoup.Jsoup;
